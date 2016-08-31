@@ -13,7 +13,6 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
-hello <- function() {
-  # print("Hello, world!")
-  # write.csv("hello!","test.csv")
+hello <- function(data, params) {
+  list(datasets = c(), files = c())
 }
