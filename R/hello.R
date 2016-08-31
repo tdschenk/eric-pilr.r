@@ -14,6 +14,6 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function() {
-  print("Hello, world!")
+  # print("Hello, world!")
   # write.csv("hello!","test.csv")
 }
