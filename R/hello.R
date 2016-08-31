@@ -15,5 +15,5 @@
 
 hello <- function() {
   print("Hello, world!")
-  write.csv("hello!","test.csv")
+  # write.csv("hello!","test.csv")
 }
