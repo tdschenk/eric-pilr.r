@@ -13,6 +13,7 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
+#'@export
 hello <- function(data, params) {
   list(datasets = c(), files = c())
 }
